@@ -24,9 +24,13 @@ you must place the configuration file "mysql.properties" for connecting to the  
 Sample parameter filling:
 
 db.address:localhost
+
 db.port:3306
+
 db.name:banners_app
+
 db.user:root  
+
 db.password:password
 
 
